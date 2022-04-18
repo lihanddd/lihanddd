@@ -10,7 +10,7 @@
 
 
 ### Glad to see you here!  
-I am a  student from Beijing Institute of Technology. My major is artificial intelligence. My research interests are Computer Vision and Natural Language Process.
+I am a  student from Beijing Institute of Technology. My major is Artificial Intelligence. My research interests are Computer Vision and Natural Language Process.
   
 
 <br/>  
