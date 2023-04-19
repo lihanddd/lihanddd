@@ -19,10 +19,8 @@ I am a  student from Beijing Institute of Technology. My major is Artificial Int
 ## What am I doing lately
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Rreferring Expression Comprehension and Image Captioning.
+- 🔭 I’m currently working on multimodal pre-training.
   
-
-- 🌱 I’m currently learning 《编译原理》,《深度学习》.  
 
 
 </td><td valign="top" width="50%">
