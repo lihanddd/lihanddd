@@ -8,7 +8,7 @@ I am currently a Top Talent Intern at MiniMax Hailuo, contributing to multimodal
 
 My research focuses on **omni-modal understanding** and **efficient video models**.
 
-[Academic Homepage](https://lihanddd.github.io/lihanddd/) · [Google Scholar](https://scholar.google.com/citations?user=-LnWwgIAAAAJ) · [Email](mailto:lihandong2023@ia.ac.cn)
+[Academic Homepage](https://lihanddd.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=-LnWwgIAAAAJ) · [Email](mailto:lihandong2023@ia.ac.cn)
 
 ## Selected Research
 
