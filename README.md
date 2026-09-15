@@ -4,7 +4,7 @@
 
 I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jing Liu. I expect to graduate in June 2028.
 
-I am currently a Top Talent Intern at MiniMax Hailuo, contributing to multimodal understanding for [MiniMax H3](https://www.minimax.io/blog/minimax-h3) and subsequent H-series models. I led the construction of omni-modal benchmarks and the development of dense omni-captioning capabilities for H-series understanding models.
+I am currently a Top Talent Intern at MiniMax Hailuo, contributing to multimodal understanding for [MiniMax H3](https://www.minimax.io/blog/minimax-h3) and subsequent H-series models. I led dense omni-captioning development and released key in-house omni benchmarks for H-series understanding models.
 
 My research focuses on **omni-modal understanding** and **efficient video models**.
 
