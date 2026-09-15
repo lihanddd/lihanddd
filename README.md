@@ -1,79 +1,26 @@
-## Hey 👋, I'm Handong Li!  
-  
+# Handong Li | 李翰东
 
-<a href="https://github.com/lihanddd" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+**Ph.D. Student @ UCAS / CASIA · Top Talent Intern @ MiniMax Hailuo**
 
-  
+I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS) and the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jing Liu. I expect to graduate in June 2028.
 
+I am currently a Top Talent Intern at MiniMax Hailuo, contributing to multimodal understanding for [MiniMax H3](https://www.minimax.io/blog/minimax-h3) and subsequent H-series models. I push the boundaries of omni-modal understanding for better video generation.
 
+My research focuses on **omni-modal understanding** and **efficient video foundation models**.
 
-### Glad to see you here!  
-I am a  student from Beijing Institute of Technology. My major is Artificial Intelligence. My research interests are Computer Vision and Natural Language Process.
-  
+[Academic Homepage](https://lihanddd.github.io/lihanddd/) · [Google Scholar](https://scholar.google.com/citations?user=-LnWwgIAAAAJ) · [Email](mailto:lihandong2023@ia.ac.cn)
 
-<br/>  
+## Selected Research
 
+Selected first-author and co-first-author work.
 
-## What am I doing lately
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on multimodal pre-training.
-  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="Latex" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lihanddd&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihanddd&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=lihanddd&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+| Work | Venue / Status |
+| --- | --- |
+| **AdaSpark:** Adaptive Sparsity for Efficient Long-Video Understanding | CVPR 2026 **Highlight** |
+| **ELVA:** Breaking the Encoder Barrier for Seamless Video-Language Understanding | ICCV 2025 |
+| **MiCo:** Explore the Limits of Omni-Modal Pretraining at Scale | ICCV 2025 |
+| Learning Beyond Still Frames: Scaling Vision-Language Models with Video | ICCV 2025 |
+| **VAST:** A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset | NeurIPS 2023 |
+| Beyond Input Modality: State-Routed Distillation for Agentic Visual Reasoning | ICLR 2027 — Under review |
+| **TimeThink:** Reasoning with Time for Video LLMs | AAAI 2027 — Under review |
+| Thinking in Streaming Video | ECCV 2026 — Under review |
