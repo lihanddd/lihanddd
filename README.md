@@ -19,6 +19,4 @@ My research focuses on **omni-modal understanding** and **efficient video models
 | **MiCo:** Explore the Limits of Omni-Modal Pretraining at Scale | ICCV 2025 |
 | Learning Beyond Still Frames: Scaling Vision-Language Models with Video | ICCV 2025 |
 | **VAST:** A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset | NeurIPS 2023 |
-| Beyond Input Modality: State-Routed Distillation for Agentic Visual Reasoning | ICLR 2027 — Under review |
-| **TimeThink:** Reasoning with Time for Video LLMs | AAAI 2027 — Under review |
 | Thinking in Streaming Video | ECCV 2026 |
