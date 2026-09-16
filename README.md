@@ -10,9 +10,7 @@ My research focuses on **omni-modal understanding** and **efficient video models
 
 [Academic Homepage](https://lihanddd.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=-LnWwgIAAAAJ) · [Email](mailto:lihandong2023@ia.ac.cn)
 
-## Selected Research
-
-Selected first-author and co-first-author work.
+## Representative Research
 
 | Work | Venue / Status |
 | --- | --- |
